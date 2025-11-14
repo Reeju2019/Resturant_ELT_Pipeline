@@ -366,10 +366,6 @@ conn.close()
 
 ## 🎓 Submission Details
 
-**To:** Esam.Sharaf@srh-hochschulen.de  
-**Subject:** DM2 – Cohort Winter 24 – Assignment 4  
-**Deadline:** Friday, 14 November 2025, 23:59:59 (Europe/Berlin)
-
 **Student:** Reeju Bhattacherji  
 **Course:** Data Management 2  
 **Assignment:** Assignment 4 (Final Project)
