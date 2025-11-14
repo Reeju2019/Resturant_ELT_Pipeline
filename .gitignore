@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Dagster
+data/dagster_storage/
+.dagster_home/
+dagster_home/
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data outputs
+data/outputs/*
+!data/outputs/.gitkeep
+
+# Temporary and test files
+tmp*.py
+test_*.py
+*_test.py

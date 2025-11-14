@@ -1,0 +1,11 @@
+# Core dependencies for Restaurant ELT Pipeline
+# Requires Python 3.11 for Dagster compatibility
+dagster==1.6.6
+dagster-webserver==1.6.6
+pandas>=2.0.0
+duckdb>=0.9.0
+azure-storage-blob>=12.19.0
+python-dotenv>=1.0.0
+
+# Development dependencies
+pylint>=3.0.0
